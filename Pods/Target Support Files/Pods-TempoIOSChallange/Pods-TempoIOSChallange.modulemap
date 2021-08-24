@@ -1,0 +1,6 @@
+framework module Pods_TempoIOSChallange {
+  umbrella header "Pods-TempoIOSChallange-umbrella.h"
+
+  export *
+  module * { export * }
+}
